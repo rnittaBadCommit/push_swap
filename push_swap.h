@@ -25,3 +25,5 @@ typedef struct  s_array
 	void    push(char c, int data)
 	int     pop(char c)
 int     ini_array(char c, int size)
+
+#endif
